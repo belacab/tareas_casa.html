@@ -1,0 +1,24 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background: peachpuff;
+    
+}
+
+.dia {
+    color: rgb(0, 0, 0);
+    border: 4px solid brown;
+    flex: 1;
+    height: 100vh;
+}
+/*.flex-container div{
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+}/*
+
+
+
+
